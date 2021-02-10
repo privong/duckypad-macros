@@ -1,1 +1,7 @@
-WINDOWS TAB
+WINDOWS SPACE
+
+DELAY 100
+
+STRING activity montior
+
+ENTER 
