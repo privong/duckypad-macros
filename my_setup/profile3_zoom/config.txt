@@ -1,5 +1,5 @@
 z1 vol-
-z2 mute
+z2 sysmute
 z3 vol+
 z4 record
 z5 partici
@@ -10,7 +10,7 @@ z9 psescrn
 z10 prev25
 z11 spkrvie
 z12 next25
-z13 mute
+z13 mute_me
 z14 video
 z15 leave
 BG_COLOR 64 53 255
