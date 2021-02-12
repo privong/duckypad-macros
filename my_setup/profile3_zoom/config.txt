@@ -1,8 +1,8 @@
 z1 vol-
 z2 mute
 z3 vol+
-z4 mute
-z5 video
+z4 record
+z5 partici
 z6 scrnshr
 z7 hand
 z8 chat
@@ -10,12 +10,14 @@ z9 psescrn
 z10 prev25
 z11 spkrvie
 z12 next25
-z13 record
-z14 particp
+z13 mute
+z14 video
 z15 leave
 BG_COLOR 64 53 255
 SWCOLOR_1 160 0 255
 SWCOLOR_2 160 0 255
 SWCOLOR_3 160 0 255
-SWCOLOR_13 33 147 48
+SWCOLOR_4 33 147 48
+SWCOLOR_13 241 232 60
+SWCOLOR_14 48 217 217
 SWCOLOR_15 255 0 0
