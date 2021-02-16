@@ -6,10 +6,9 @@ z5 ||
 z6 >>
 z7 ActMon
 z8 finder
-s8 2
 z13 SpcLeft
 z14 MssnCtr
-z15 ActMon
+z15 SpcRight
 BG_COLOR 64 53 255
 SWCOLOR_1 160 0 255
 SWCOLOR_2 160 0 255
