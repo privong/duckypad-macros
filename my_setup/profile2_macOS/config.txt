@@ -4,6 +4,7 @@ z3 vol+
 z7 ActMon
 z8 finder
 z10 ScrnSht
+z12 iterm
 z13 SpcLeft
 z14 MssnCtr
 z15 SpcRight
